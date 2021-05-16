@@ -1,0 +1,39 @@
+.slider h3, .slider h5 .clients h3{
+	text-shadow: 1px 1px 3px rgba(0,0,0,0.5);
+
+}
+
+.slides {
+	font-family: cursive;
+	font-style: italic;
+}
+
+.about p {
+	text-align: center;
+}
+
+.parallax-container{
+	5%;
+}
+
+.carousel-slider img{
+	height: 100%;
+	width: 100%;
+}
+.parallax img{
+	opacity: 0.5 !important;
+}
+
+section{
+	padding: 20px 0;
+}
+
+footer{
+	padding: 20px 0;
+
+}
+
+html 
+{
+   scroll-behavior: smooth;
+}
