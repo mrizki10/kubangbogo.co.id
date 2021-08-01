@@ -6,7 +6,7 @@ Backend menggunakan PHP tanpa framework
 HTML, CSS, PHP
 Framework CSS, gabungan materialize dan bootstrap sedikit
 
-Link Demo : https://miftahur-rizki.xyz/kubangbogo.co.id/
+Link Demo : https://miftahur-rizki.xyz/kubangbogo/
 
 ![image](https://user-images.githubusercontent.com/62686080/118401814-59eab800-b691-11eb-9737-9c03f061e48b.png)
 
